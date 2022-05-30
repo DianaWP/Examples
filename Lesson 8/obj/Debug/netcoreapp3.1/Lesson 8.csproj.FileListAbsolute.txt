@@ -1,0 +1,13 @@
+C:\Users\diana\CodeLikeaGirl\Lesson 8\obj\Debug\netcoreapp3.1\Lesson 8.csprojAssemblyReference.cache
+C:\Users\diana\CodeLikeaGirl\Lesson 8\obj\Debug\netcoreapp3.1\Lesson 8.AssemblyInfoInputs.cache
+C:\Users\diana\CodeLikeaGirl\Lesson 8\obj\Debug\netcoreapp3.1\Lesson 8.AssemblyInfo.cs
+C:\Users\diana\CodeLikeaGirl\Lesson 8\obj\Debug\netcoreapp3.1\Lesson 8.csproj.CoreCompileInputs.cache
+C:\Users\diana\CodeLikeaGirl\Lesson 8\bin\Debug\netcoreapp3.1\Lesson 8.exe
+C:\Users\diana\CodeLikeaGirl\Lesson 8\bin\Debug\netcoreapp3.1\Lesson 8.deps.json
+C:\Users\diana\CodeLikeaGirl\Lesson 8\bin\Debug\netcoreapp3.1\Lesson 8.runtimeconfig.json
+C:\Users\diana\CodeLikeaGirl\Lesson 8\bin\Debug\netcoreapp3.1\Lesson 8.runtimeconfig.dev.json
+C:\Users\diana\CodeLikeaGirl\Lesson 8\bin\Debug\netcoreapp3.1\Lesson 8.dll
+C:\Users\diana\CodeLikeaGirl\Lesson 8\bin\Debug\netcoreapp3.1\Lesson 8.pdb
+C:\Users\diana\CodeLikeaGirl\Lesson 8\obj\Debug\netcoreapp3.1\Lesson 8.dll
+C:\Users\diana\CodeLikeaGirl\Lesson 8\obj\Debug\netcoreapp3.1\Lesson 8.pdb
+C:\Users\diana\CodeLikeaGirl\Lesson 8\obj\Debug\netcoreapp3.1\Lesson 8.genruntimeconfig.cache
