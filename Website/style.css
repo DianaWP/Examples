@@ -1,0 +1,220 @@
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'Libre Baskerville', serif;
+    }
+    
+    html {
+        scroll-behavior: smooth;
+    }
+    
+    .banner {
+        position: relative;
+        min-height: 100vh;
+        background: #fff;
+        background-size: cover;
+        background-position: right;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    .banner h2 {
+        font-size: 3em;
+        color: #111;
+        font-weight: 500;
+        line-height: 1.5em;
+    }
+    
+    .banner h3 {
+        font-size: 1.5em;
+        color: #111;
+        font-weight: 500;
+    }
+    
+    .textBox {
+        padding: 50px;
+    }
+    
+    header {
+        position: sticky;
+        top: 0;
+        width: 100%;
+        background: #fff;
+        padding: 20px 100px;
+        padding: 40px 100px;
+        z-index: 1000;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        transition: 0.5s;
+    }
+    
+    header .logo {
+        color: #111;
+        font-size: 38px;
+        text-decoration: none;
+        font-weight: 500;
+    }
+    
+    header ul {
+        display: flex;
+    }
+    
+    header ul li {
+        list-style: none;
+    }
+    
+    header ul li a {
+        display: inline-block;
+        margin: 0 15px;
+        color: #111;
+        text-decoration: none;
+    }
+    
+    .heading {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 30px;
+        color: #111;
+    }
+   
+    .heading h2 {
+        font-weight: 500;
+        font-size: 38px;
+        text-align: center;
+        padding: 50px;
+        margin-top: 500px;
+    }
+    
+    .content {
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .contentBox p {
+        width: auto;
+        padding-right: 30px;
+        padding-left: 50px;
+        font-size: 24px;
+        margin-bottom: 10px;
+        text-align: left;
+    }
+    
+    .blogText {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+    
+    .blog .blogText .post {
+        padding-right: 30px;
+        padding-left: 50px;
+        margin-top: 30px;
+        margin-bottom: 10px;
+        width: 100%;
+        text-align: left;
+        transition: 0.5s;
+    }
+    
+    .blog .blogText .post h1 {
+        padding-bottom: 30px;
+        text-align: left;
+        width: 100%;
+    }
+    
+    .projectText {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+    
+    .projects .projectText .project {
+        padding-right: 30px;
+        padding-left: 50px;
+        margin-top: 30px;
+        margin-bottom: 10px;
+        width: 100%;
+        text-align: left;
+        transition: 0.5s;
+    }
+    
+    .projects .projectText .project h1 {
+        padding-bottom: 30px;
+        text-align: left;
+        width: 100%;
+    }
+    
+    .projects .projectText .project h4 {
+        padding-bottom: 30px;
+        text-align: left;
+        width: 100%;
+    }
+    
+    button {
+        background-color: #E67BC7;
+        color: #fff;
+        margin-left: 50px;
+        padding: 10px;
+        align-items: center;
+        border-radius: 8px;
+        text-align: center;
+    }
+    
+    .contact h2 {
+        margin-bottom: 80px;
+        text-align: center;
+    }
+    
+    .contact h3 {
+        padding: 20px;
+        text-align: center;
+    }
+    
+    .social {
+        padding: 40px;
+        text-align: center;
+    }
+    
+    .contact p {
+        width: 100%;
+        text-align: center;
+    }
+    
+    .contact .fa-instagram {
+        color: #5b929f;
+        font-size: 40px;
+        padding: 40px;
+    }
+    
+    .contact .fa-linkedin {
+        color: #5b929f;
+        font-size: 40px;
+        padding: 40px;
+    }
+    
+    .contact .fa-twitter {
+        color: #5b929f;
+        font-size: 40px;
+        padding: 40px;
+    }
+    
+    @media screen and (max-width: 500px) {
+        header .logo {
+            display: none;
+        }
+    }
+    
+    @media screen and (min-width: 360px) {
+        header ul li a {
+            font-size: smaller;
+            text-align: left;
+            margin-left: auto;
+        }
+    }
+
+
+
